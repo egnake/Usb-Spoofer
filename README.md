@@ -1,4 +1,4 @@
-# 🕵️ USB Exfiltrator v2.0 (Persistent & Auto-Zip)
+# 🕵️ USB Spoofer (Persistent & Auto-Zip)
 
 ![Python](https://img.shields.io/badge/Language-Python_3.x-blue?style=for-the-badge&logo=python)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
