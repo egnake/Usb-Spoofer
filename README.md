@@ -50,8 +50,6 @@ Bu proje herhangi bir harici kütüphane (pip install) gerektirmez. Python'un st
 
 Başlangıç: Program çalışır çalışmaz APPDATA içerisindeki Startup klasörüne kendini kopyalar.
 
-    ```python
-
 
        İzleme: Sonsuz döngüde (while True) sistemdeki sürücü harflerini (E:/, F:/ vb.) tarar.
 
@@ -66,7 +64,6 @@ Başlangıç: Program çalışır çalışmaz APPDATA içerisindeki Startup klas
        Geçici dosyaları siler.
 
 ##  🗺️ Yol Haritası (To-Do)
-     ```python
         [x] Temel USB algılama
 
         [x] Dosya filtreleme
@@ -81,7 +78,7 @@ Başlangıç: Program çalışır çalışmaz APPDATA içerisindeki Startup klas
 
         [ ] FTP sunucusuna otomatik upload
 
-##👤 İletişim
+## 👤 İletişim
 ```python
 Geliştirici: egnake GitHub: github.com/egnake
 
