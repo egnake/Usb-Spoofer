@@ -26,13 +26,13 @@ Bu proje herhangi bir harici kütüphane (pip install) gerektirmez. Python'un st
 
 1.  Repoyu klonlayın veya indirin:
     ```bash
-    git clone [https://github.com/egnake/usb-exfiltrator.git](https://github.com/egnake/usb-exfiltrator.git)
+    git clone https://github.com/egnake/Usb-Spoofer.git
     cd usb_spoofer
     ```
 
 2.  Scripti çalıştırın:
     ```bash
-    python usb_ajan.py
+    python usb_spoofer.py
     ```
     *(Arka planda tamamen gizli çalışması için dosya uzantısını `.pyw` olarak değiştirebilirsiniz.)*
 
